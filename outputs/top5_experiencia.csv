@@ -1,0 +1,6 @@
+ID;Nome;Experiencia Base;Tipos;HP;Ataque;Defesa;Categoria
+6;Charizard;240;['Fire', 'Flying'];78;84;78;Forte
+9;Blastoise;239;['Water'];79;83;100;Forte
+3;Venusaur;236;['Grass', 'Poison'];80;82;83;Forte
+62;Poliwrath;230;['Water', 'Fighting'];90;95;95;Forte
+34;Nidoking;227;['Poison', 'Ground'];81;102;77;Forte
